@@ -1,4 +1,4 @@
-# Performance Marketing & Creator Monetization Platform
+# Influencer Marketing Platform
 
 **Type:** 0→1 Platform Build
 **Domain:** Creator Economy / Influencer Marketing
